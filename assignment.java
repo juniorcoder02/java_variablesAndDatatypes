@@ -5,7 +5,7 @@ public class assignment {
         Scanner sc = new Scanner(System.in);
 
         /*
-         * Question 1 : In a program, input 3 numbers: A, B andC. Youhave to output the
+         * Question 1 : In a program, input 3 numbers: A, B andC. You have to output the
          * average of
          * these 3 numbers.
          * (Hint : Average of N numbers is sum of those numbers divided by N)
